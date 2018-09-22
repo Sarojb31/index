@@ -1,0 +1,28 @@
+.body{
+	height: 795px;
+	width: 1340px;
+	border: 1px solid #7F7B69;
+	background-color: #A3ABB1;
+}
+.header,.footer{
+	height: 147px;
+	width: 1316px;
+	margin: 10px;
+	border: 1px solid #F9EBEA;
+	background-color: #FFE3CE;
+
+
+}
+.content{
+	height: 460px;
+	width: 1316px;
+	border: 1px solid;
+	margin:10px;
+	color:#FFF5D3;
+	background-color: #FFF2E9;
+}
+.footer{
+	background-color:#7F7B69 ;
+	border:0px;
+	height: 150px;
+}

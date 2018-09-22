@@ -1,0 +1,56 @@
+ul{
+	margin-top:1px;
+	padding:0px;
+	list-style:none;
+	
+	}
+ ul li{
+	 float:left;
+	 width:200px;
+	 height:40px;
+	 background-color:#9C948E;
+	 opacity:0.9;
+	 line-height:40px;
+	 text-align:center;
+	 font-size:20px;
+	 margin-right:2px;
+	
+	 }
+ul li a{
+	 color:#F9EBEA;
+	 text-decoration:none;
+	 display:block;	
+	}
+
+ul li a:hover{
+		background-color:#524E4B;
+	}
+ul li ul li{
+	display:none;
+	}
+ul li:hover ul li{
+
+	display:block;
+}
+
+#abc{
+	float: left;
+	height:40px; 
+	width:40px;
+}
+#logo{
+	float:left;
+	border:1px solid;
+	width:90px;
+	height:50px;
+	color:#A3ABB1;
+	margin-left:10px;
+	margin-right: 50px;
+	line-height:0.008px;
+}
+#getin{
+	color: #A3ABB1;
+	float: right;
+	margin-right:10px;
+
+}
